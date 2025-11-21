@@ -1,0 +1,177 @@
+[
+  {
+    "nome": "Material UI (MUI)",
+    "data_criacao": "2014",
+    "descricao": "Biblioteca React baseada no Material Design do Google.",
+    "link": "https://mui.com",
+    "icone": "fa-brands fa-google"
+  },
+  {
+    "nome": "Bootstrap",
+    "data_criacao": "2011",
+    "descricao": "Framework CSS criado pelo Twitter, focado em responsividade.",
+    "link": "https://getbootstrap.com",
+    "icone": "fa-brands fa-bootstrap"
+  },
+  {
+    "nome": "Tailwind CSS",
+    "data_criacao": "2019",
+    "descricao": "Framework CSS utilitário para criação rápida de interfaces.",
+    "link": "https://tailwindcss.com",
+    "icone": "fa-solid fa-wind"
+  },
+  {
+    "nome": "Ant Design",
+    "data_criacao": "2015",
+    "descricao": "Biblioteca de componentes React voltada para sistemas corporativos.",
+    "link": "https://ant.design",
+    "icone": "fa-solid fa-ant"
+  },
+  {
+    "nome": "Chakra UI",
+    "data_criacao": "2019",
+    "descricao": "Biblioteca React acessível e modular com foco em simplicidade.",
+    "link": "https://chakra-ui.com",
+    "icone": "fa-solid fa-bolt"
+  },
+  {
+    "nome": "Semantic UI",
+    "data_criacao": "2013",
+    "descricao": "Framework CSS inspirado em linguagem natural.",
+    "link": "https://semantic-ui.com",
+    "icone": "fa-brands fa-searchengin"
+  },
+  {
+    "nome": "Figma UI Kits",
+    "data_criacao": "2016",
+    "descricao": "Bibliotecas de design prontas para prototipagem no Figma.",
+    "link": "https://www.figma.com/community",
+    "icone": "fa-brands fa-figma"
+  },
+  {
+    "nome": "Ionic UI",
+    "data_criacao": "2013",
+    "descricao": "Biblioteca para criar interfaces mobile com tecnologias web.",
+    "link": "https://ionicframework.com",
+    "icone": "fa-solid fa-mobile-screen-button"
+  },
+  {
+    "nome": "Fluent UI",
+    "data_criacao": "2019",
+    "descricao": "Sistema de design da Microsoft para web e apps.",
+    "link": "https://fluent.microsoft.com",
+    "icone": "fa-brands fa-microsoft"
+  },
+  {
+    "nome": "Carbon Design System",
+    "data_criacao": "2015",
+    "descricao": "Sistema de design da IBM para aplicações corporativas.",
+    "link": "https://carbondesignsystem.com",
+    "icone": "fa-solid fa-atom"
+  },
+  {
+    "nome": "Evergreen",
+    "data_criacao": "2018",
+    "descricao": "Biblioteca React feita pela Segment para ferramentas internas.",
+    "link": "https://evergreen.segment.com",
+    "icone": "fa-brands fa-envira"
+  },
+  {
+    "nome": "PrimeReact",
+    "data_criacao": "2019",
+    "descricao": "Biblioteca com mais de 90 componentes para React.",
+    "link": "https://primereact.org",
+    "icone": "fa-brands fa-react"
+  },
+  {
+    "nome": "PrimeNG",
+    "data_criacao": "2015",
+    "descricao": "Versão Angular da biblioteca Prime.",
+    "link": "https://primeng.org",
+    "icone": "fa-brands fa-angular"
+  },
+  {
+    "nome": "Vuetify",
+    "data_criacao": "2016",
+    "descricao": "Framework UI para Vue baseado no Material Design.",
+    "link": "https://vuetifyjs.com",
+    "icone": "fa-brands fa-vuejs"
+  },
+  {
+    "nome": "Quasar Framework",
+    "data_criacao": "2016",
+    "descricao": "Framework Vue para criar sites, PWAs e apps mobile.",
+    "link": "https://quasar.dev",
+    "icone": "fa-solid fa-satellite-dish"
+  },
+  {
+    "nome": "Bulma",
+    "data_criacao": "2016",
+    "descricao": "Framework CSS moderno baseado em Flexbox.",
+    "link": "https://bulma.io",
+    "icone": "fa-solid fa-bold"
+  },
+  {
+    "nome": "Foundation",
+    "data_criacao": "2011",
+    "descricao": "Framework responsivo criado pela Zurb.",
+    "link": "https://get.foundation",
+    "icone": "fa-solid fa-building-columns"
+  },
+  {
+    "nome": "Shadcn/UI",
+    "data_criacao": "2023",
+    "descricao": "Coleção de componentes React estilizados com Tailwind.",
+    "link": "https://ui.shadcn.com",
+    "icone": "fa-solid fa-cubes"
+  },
+  {
+    "nome": "NextUI",
+    "data_criacao": "2021",
+    "descricao": "Biblioteca moderna de componentes React.",
+    "link": "https://nextui.org",
+    "icone": "fa-solid fa-forward"
+  },
+  {
+    "nome": "Headless UI",
+    "data_criacao": "2020",
+    "descricao": "Componentes sem estilo criados pela Tailwind Labs.",
+    "link": "https://headlessui.com",
+    "icone": "fa-solid fa-ghost"
+  },
+  {
+    "nome": "Radix UI",
+    "data_criacao": "2020",
+    "descricao": "Componentes acessíveis e sem estilo para React.",
+    "link": "https://www.radix-ui.com",
+    "icone": "fa-solid fa-r"
+  },
+  {
+    "nome": "Mantine",
+    "data_criacao": "2021",
+    "descricao": "Biblioteca React com 120+ componentes e hooks.",
+    "link": "https://mantine.dev",
+    "icone": "fa-solid fa-diamond"
+  },
+  {
+    "nome": "Grommet",
+    "data_criacao": "2015",
+    "descricao": "Biblioteca de componentes React focada em acessibilidade.",
+    "link": "https://v2.grommet.io",
+    "icone": "fa-brands fa-galactic-republic"
+  },
+  {
+    "nome": "Onsen UI",
+    "data_criacao": "2013",
+    "descricao": "Biblioteca para apps mobile híbridos.",
+    "link": "https://onsen.io",
+    "icone": "fa-solid fa-water"
+  },
+  {
+    "nome": "Clarity Design System",
+    "data_criacao": "2016",
+    "descricao": "Sistema de design da VMware para aplicações corporativas.",
+    "link": "https://clarity.design",
+    "icone": "fa-solid fa-lightbulb"
+  }
+]
